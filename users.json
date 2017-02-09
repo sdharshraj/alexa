@@ -1,0 +1,13 @@
+{
+  "version": "v1.0",
+  "sessionAttributes": {
+    "string": {}
+  },
+  "response": {
+    "outputSpeech": {
+      "type": "PlainText",
+      "text": "this is title all i understand"
+    },
+    "shouldEndSession": true
+  }
+}
